@@ -1,0 +1,20 @@
+Teste de Software e QA (Garantia de Qualidade):
+
+Teste de Software:
+O teste de software é uma etapa crucial no desenvolvimento de programas. Ele visa identificar possíveis erros e garantir a qualidade do software antes de ser lançado no mercado.
+Tipos de Teste de Software:
+Teste da Caixa Branca: Avalia o aspecto interno do programa, analisando o código-fonte e componentes. Verifica fluxo de dados, condições, ciclos etc.
+Teste da Caixa Preta: Foca nos aspectos externos, avaliando os requisitos funcionais do sistema. Verifica se o software atende às especificações.
+Teste da Caixa Cinza: Combina aspectos internos e externos, utilizando engenharia reversa.
+Teste de Regressão: Realiza testes a cada versão do software para evitar que erros corrigidos reapareçam.
+Teste de Unidade: Testa unidades menores do software isoladamente.
+Teste de Integração: Verifica se as unidades funcionam juntas após os testes individuais1.
+QA (Garantia de Qualidade):
+O QA é responsável por garantir a qualidade do processo de desenvolvimento e do produto final.
+Etapas de QA:
+Planejamento de QA: Define estratégias e abordagens.
+Design de Teste: Define casos de teste e cenários.
+Execução de Testes: Realiza os testes.
+Análise de Teste e Relatórios: Avalia os resultados.
+Ação Corretiva: Corrige problemas identificados.
+Revisão de QA: Avalia o processo e busca melhorias
